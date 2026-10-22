@@ -7,8 +7,7 @@ __pycache__/
 !.env.example
 .motherduck-staging/
 
-ingestion/*
-!ingestion/documents/
+
 docs/
 PROGRESS.md
 CLAUDE.md
